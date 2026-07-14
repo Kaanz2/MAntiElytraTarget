@@ -15,7 +15,6 @@ Ayrıca oyuncunun ana elinde veya sol elinde havai fişek bulunuyorsa başka bir
 - Log miktarı ve sıfırlanma süresi ayarlanabilir.
 - Uygulanacak ceza komutu tamamen değiştirilebilir.
 - Yetkililer uyarıları açıp kapatabilir.
-- Ayarlar sunucuyu yeniden başlatmadan yenilenebilir.
 
 ## Komutlar
 
